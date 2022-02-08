@@ -1,5 +1,5 @@
 """"
-This game is normal ping Pong Game with a Catch that the player needs to play from both the sides and maintain their balance.
+This game is normal Pong Game with a Catch that the player needs to play from both the sides and maintain their balance.
 
 W and S key to move left Player, Up and down respectively.
 Up arrow and Down arrow to move right player, Up and Down Respectively.
